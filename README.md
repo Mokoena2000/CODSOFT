@@ -1,2 +1,2 @@
 # CODSOFT
-CPDSPFT internship projects
+CODSOFT internship projects
